@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://tu-pagina-web.com" target="_blank" style="text-decoration: none; margin: 0 20px;">
+  <a href="https://axelr-kernel.github.io/Portafolio-Personal/" target="_blank" style="text-decoration: none; margin: 0 20px;">
     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
   </a>
 
