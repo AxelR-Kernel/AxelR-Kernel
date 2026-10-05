@@ -9,19 +9,23 @@
 <br>
 
 <div align="center">
-  
-  <a href="https://github.com/AxelR-Kernel">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+
+  <a href="https://github.com/AxelR-Kernel" target="_blank" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <a href="https://www.linkedin.com/in/axel-romero-87bab5366/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/axel-romero-87bab5366/" target="_blank" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto:axelrp.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Correo"/>
+
+  <a href="https://tu-pagina-web.com" target="_blank" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
   </a>
-  
+
+  <a href="mailto:axelrp.dev@gmail.com" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+
 </div>
 
 <br>
